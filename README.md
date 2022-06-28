@@ -1,16 +1,28 @@
-### Hi there 👋
+#### Hi there. 
 
-<!--
-**EgoTkachenco/EgoTkachenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Yehor, full stack developer from Kyiv 🇺🇦
 
-Here are some ideas to get you started:
+😎 I have been working on freelance for already 4 years. \
+I have experience in building sites from scratch from Figma design, also create web applications using React or Vue. \
+For backend I use Node.js and Strapi CMS with MongoDB \
+\
+🌎 [Upwork](https://www.upwork.com/freelancers/~01c84ccd2237ea2b36) Profile \
+💰 [FreelanceHunt](https://freelancehunt.com/freelancer/egor_tkachenko.html) Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 TECH STACK
+`JavaScript` `HTML` `CSS` `SCSS` `Figma` `Bootstrap` \
+`React` `Mobx` `React Router` `Material UI` \
+`Vue` `Vuex` `Vue Router` `Vuetify` \
+`Node` `Strapi` `MongoDB` `Express`
+
+## 📚 EDUCATION
+I received a bachelor's degree in the **Kiev Polytechnic University (KPI)** \
+at the **Faculty of Computer Science (FICT)** \
+with a specialization in **Information Systems and Technologies** \
+\
+For now I'm getting master's degree in the **Cherkassy Politechnic University (CHDTU)** \
+at the **Faculty of information technologies and systems (FITIS)** \
+with a specialization in **Project Management and Startups**
+
+## 📫 CONTACT ME
+Mail - egortkachenco@gmail.com
