@@ -1,11 +1,13 @@
 #### Hi there. 
 
-#### I'm Yehor, full stack developer from Kyiv 🇺🇦
+#### I'm Yehor, full stack javascript developer from Kyiv 🇺🇦
 
 😎 I have been working on freelance for already 4 years. \
-I have experience in building sites from scratch from Figma design, also create web applications using React or Vue. \
-For backend I use Node.js and Strapi CMS with MongoDB \
-\
+For the last years I have worked with lots of things, like: 
+- building simple landing pages from **Figma** design
+- building Web Applications using frameworks like **React** or **Vue**
+- API development with **Node.js, Strapi CMS** and **MongoDB**
+
 🌎 [Upwork](https://www.upwork.com/freelancers/~01c84ccd2237ea2b36) Profile \
 💰 [FreelanceHunt](https://freelancehunt.com/freelancer/egor_tkachenko.html) Profile
 
