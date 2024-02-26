@@ -18,15 +18,15 @@ For the last years I have worked with lots of things, like:
 `Node` `Strapi` `MongoDB` `PostgreSQL` `Express` 
 
 ## 📚 EDUCATION
-In 2021 I received a bachelor's degree from the **Kiev Polytechnic University (KPI)** \
+In 2021 I received a **bachelor's degree** from the **Kiev Polytechnic University (KPI)** \
 at the **Faculty of Computer Science (FICT)** \
 with a specialization in **Information Systems and Technologies** \
 \
-In 2023 I received a master's degree from the **Cherkassy Politechnic University (CHDTU)** \
+In 2023 I received a **master's degree** from the **Cherkassy Politechnic University (CHDTU)** \
 at the **Faculty of information technologies and systems (FITIS)** \
-with a specialization in **Project Management and Startups**
+with a specialization in **Project Management and Startups** \
 \
-For now, I'm getting a PhD degree from the Cherkasy Polytechnic University (CHDTU)
+For now, I'm getting a **PhD degree** from the Cherkasy Polytechnic University (CHDTU)
 at the Faculty of information technologies and systems (FITIS).
 
 ## 📫 CONTACT ME
